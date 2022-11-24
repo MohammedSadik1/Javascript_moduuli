@@ -1,3 +1,3 @@
-document.querySelector('button').addEventListener('click', () => {
+document.querySelector('button').addEventListener('Click', () => {
   alert('Painoit Nappia');
 });
